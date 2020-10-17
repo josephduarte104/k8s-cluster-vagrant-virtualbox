@@ -12,4 +12,12 @@ Before you start this tutorial, you’ll need to download and install VirtualBox
 - Vagrant 2.2.6 (Download Vagrant)
 - Ansible 2.9.6
 
+## Create CLuster
+ 
+$ vagrant up
+
+## login to master
+
+$ vagrant ssh master
+
 
